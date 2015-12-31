@@ -1,0 +1,7 @@
+C:\Users\wenjun.zhang\Desktop\test\ReleaseTool\ReleaseTool\bin\Debug\ReleaseTool.exe
+C:\Users\wenjun.zhang\Desktop\test\ReleaseTool\ReleaseTool\bin\Debug\ReleaseTool.pdb
+C:\Users\wenjun.zhang\Desktop\test\ReleaseTool\ReleaseTool\obj\Debug\ReleaseTool.Properties.Resources.resources
+C:\Users\wenjun.zhang\Desktop\test\ReleaseTool\ReleaseTool\obj\Debug\testWinForm.删除.resources
+C:\Users\wenjun.zhang\Desktop\test\ReleaseTool\ReleaseTool\obj\Debug\ReleaseTool.csproj.GenerateResource.Cache
+C:\Users\wenjun.zhang\Desktop\test\ReleaseTool\ReleaseTool\obj\Debug\ReleaseTool.exe
+C:\Users\wenjun.zhang\Desktop\test\ReleaseTool\ReleaseTool\obj\Debug\ReleaseTool.pdb
